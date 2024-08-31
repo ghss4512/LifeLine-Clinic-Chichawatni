@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeLineClinic", "LifeLineClinic\LifeLineClinic.csproj", "{95FDB55C-C872-4397-9C83-B9B699258F82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95FDB55C-C872-4397-9C83-B9B699258F82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FDB55C-C872-4397-9C83-B9B699258F82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FDB55C-C872-4397-9C83-B9B699258F82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FDB55C-C872-4397-9C83-B9B699258F82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7228CA9-F647-4F7D-ABDD-4BA20B171B8E}
+	EndGlobalSection
+EndGlobal
